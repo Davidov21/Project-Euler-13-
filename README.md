@@ -1,5 +1,5 @@
 # Project-Euler-13-Large-Sum-ADA
-My solution to the project Euler problem multiples of 3 and 5 using the ADA programming language which is similar to C++
+My solution to the project Euler problem 13 Largest Sum using the ADA programming language which is similar to C++
 
 The prompt is
 Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
